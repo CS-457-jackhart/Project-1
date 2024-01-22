@@ -410,8 +410,9 @@ Display( )
 
 	// set the uniform variables that will change over time:
 
-	Pattern.SetUniformVariable("uDiam_a", 0.1f);
-	Pattern.SetUniformVariable("uDiam_b", 0.1f);
+	Pattern.SetUniformVariable("uAd", 0.1f);
+	Pattern.SetUniformVariable("uBd", 0.1f);
+	Pattern.SetUniformVariable("uTol", 0.5f);
 
 	glCallList( SphereList );
 

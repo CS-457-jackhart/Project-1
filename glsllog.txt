@@ -1,4 +1,8 @@
 
-0(47) : error C1038: declaration of "d" conflicts with previous declaration at 0(37)
-0(50) : error C1038: declaration of "s" conflicts with previous declaration at 0(29)
+0(31) : error C1503: undefined variable "uDiam_a"
+0(32) : error C1503: undefined variable "uDiam_b"
+0(33) : error C1503: undefined variable "uDiam_a"
+0(34) : error C1503: undefined variable "uDiam_b"
+0(35) : error C1503: undefined variable "uDiam_a"
+0(36) : error C1503: undefined variable "uDiam_b"
 
